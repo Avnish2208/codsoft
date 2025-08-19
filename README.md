@@ -1,10 +1,31 @@
-💻✨ Excited to share my first task for the Web Development Internship at CodSoft!
+🌐 Personal Portfolio Website
 
-For Task 1, I created my personal portfolio website using HTML and CSS.
-This portfolio highlights my skills, projects, and includes my resume & contact details.
+This project is a personal portfolio website built using HTML and CSS. It is a beginner-friendly project designed to showcase personal details, skills, and project work in an organized and visually appealing manner.
 
-Through this task, I learned how to structure a professional website, improve UI design, and build a responsive layout. 🚀
+📖 Features
 
-I would love to hear your feedback and suggestions!
+Header Section: Displays name/logo and an optional tagline.
+
+About Section: Includes an image and a short bio introduction.
+
+Skills Section: Highlights key skills and expertise.
+
+Projects Section: Showcases sample work/projects with descriptions.
+
+Resume Section: Provides a downloadable resume in PDF format.
+
+Contact Section: Contains contact details like email and phone number.
+
+Footer: Includes copyright notice and useful links.
+
+🛠️ Technologies Used
+
+HTML5 – Structure of the portfolio
+
+CSS3 – Styling and layout
+
+🚀 Live Demo
+
+🔗 
 
 
